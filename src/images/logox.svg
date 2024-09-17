@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48.00005"
+   height="47.999966"
+   viewBox="0 0 12.700013 12.699991"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer4"
+     transform="matrix(0.18936022,0,0,0.23148504,-50.598832,-57.3904)">
+    <ellipse
+       style="fill:#6e6e6e;fill-opacity:1;stroke:#000000;stroke-width:0.818835;stroke-dasharray:none"
+       id="path3-7-1-1"
+       cx="300.90311"
+       cy="275.34497"
+       rx="32.964893"
+       ry="27.012835" />
+  </g>
+  <g
+     id="g1"
+     transform="matrix(0.18936022,0,0,0.23148504,-48.255365,-57.111783)">
+    <ellipse
+       style="fill:#000000;stroke-width:0.110882"
+       id="path3-7-1"
+       cx="288.20816"
+       cy="273.7735"
+       rx="28.623623"
+       ry="23.455414" />
+    <ellipse
+       style="display:inline;fill:#a1ffa1;fill-opacity:0;stroke:#000000;stroke-width:0.818835;stroke-dasharray:none"
+       id="path3-7-1-1-7"
+       cx="288.20801"
+       cy="274.15997"
+       rx="32.964893"
+       ry="27.012835" />
+    <g
+       id="g5">
+      <path
+         id="text1-3"
+         style="-inkscape-font-specification:'New Amsterdam';fill:#ffffff;stroke-width:2.05513"
+         d="m 288.52737,247.12854 a 32.964893,27.012835 0 0 0 -0.31936,0.0186 v 41.39179 H 305.254 l -0.18655,-7.74371 -10.78901,1.20974 0.20567,-34.42684 a 32.964893,27.012835 0 0 0 -5.95674,-0.44958 z" />
+      <path
+         style="-inkscape-font-specification:'New Amsterdam';fill:#f9f9f9;stroke-width:1.13757"
+         d="m 271.96909,288.53906 v -6.32484 q 0,-4.23174 0.36402,-8.09945 0.40952,-3.91321 1.7291,-7.64442 1.36507,-3.7312 4.18623,-7.46241 h 3.27618 q 2.86665,3.6857 4.23173,7.50791 1.36507,3.77671 1.72909,7.68993 0.40953,3.91321 0.40953,8.00844 v 6.32484 h -5.09628 v -5.82432 h -5.77882 v 5.82432 z m 5.05078,-10.60208 h 5.73331 q -0.18201,-3.18517 -0.86454,-6.37035 -0.68254,-3.18517 -2.00211,-5.96083 -1.36508,2.86666 -2.04762,6.00633 -0.68253,3.13968 -0.81904,6.32485 z"
+         id="text4-8"
+         aria-label="A" />
+    </g>
+  </g>
+</svg>
