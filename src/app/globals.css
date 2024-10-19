@@ -132,7 +132,7 @@ body {
 .section1 {
   width: 100vw;
   max-height: 850px;
-  min-height: 539px;
+  min-height: 650px;
   /* max-width: 2000px; */
   display: flex;
   align-items: center;
@@ -560,6 +560,7 @@ section div.image,
   margin: 0 auto;
   margin-top: 60px;
   margin-bottom: 78px;
+  padding: 0 25px;
 
   h3 {
     font-size: 3rem;
@@ -583,7 +584,8 @@ section div.image,
     justify-self: center;
 
     margin-bottom: 50px;
-    max-width: 72%;
+    /* max-width: 72%; */
+    max-width: 584px;
 
     h4 {
       padding: 35px 0 20px 35px;
